@@ -1,0 +1,20 @@
+Package: wuyuan.shanghai
+Title: Clear Data for WuYuan Shanghai
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jing",
+           family = "Zhang",
+           role = c("aut", "cre"),
+           email = "zj391120@163.com")
+Description: To clear data for wuyuan shanghai.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    plyr,
+    do,
+    set,
+    tmcn,
+    stringr,
+    stringi
+RoxygenNote: 6.1.1
