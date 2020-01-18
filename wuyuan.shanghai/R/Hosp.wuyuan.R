@@ -19,4 +19,5 @@ wuyuan.shanghai <- function(filenames,query) {
         cat(i,'/',length(filenames),filename,'---OK','\n')
     }
     res
+
 }
