@@ -4,7 +4,7 @@
 \alias{wuyuan.shanghai}
 \title{To Clear data for wuyuan shagnhai}
 \usage{
-wuyuan.shanghai(filenames, query)
+wuyuan.shanghai(filenames, query, exact = FALSE, duplicated.choose)
 }
 \arguments{
 \item{filenames}{filenames}

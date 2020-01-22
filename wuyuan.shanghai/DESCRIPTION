@@ -16,5 +16,8 @@ Imports:
     set,
     tmcn,
     stringr,
-    stringi
+    stringi,
+    DT
 RoxygenNote: 6.1.1
+Depends: 
+    shiny
